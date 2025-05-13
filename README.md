@@ -8,7 +8,7 @@ Welcome to my GitHub repository for the **Python & AI Bootcamp** organized by **
 
 ## 🧠 About the Bootcamp
 
-This 2-month intensive bootcamp is designed to provide hands-on experience in Python programming and Artificial Intelligence. Selected from over **500+ applicants**, this program is led by industry experts and aims to equip participants with real-world AI problem-solving skills.
+This 3-month intensive bootcamp is designed to provide hands-on experience in Python programming and Artificial Intelligence. Selected from over **500+ applicants**, this program is led by industry experts and aims to equip participants with real-world AI problem-solving skills.
 
 ### 🎓 Instructors:
 - **Daniyal Tayyub** – AI Software Engineer
